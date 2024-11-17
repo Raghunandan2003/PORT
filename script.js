@@ -140,3 +140,7 @@ document.addEventListener("DOMContentLoaded", () => {
       textContainer.appendChild(characters);
     }
   });
+
+
+  console.log("jhguyfuyfyu");
+  
